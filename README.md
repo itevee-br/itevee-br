@@ -16,7 +16,7 @@
   </div>
 </div>
 
-## 🛠 Habilidades Técnicas
+## 🛠 Linguagens
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -32,26 +32,3 @@
 - **Ciência da Computação** (Cursando) - [IFMG]  
 - **Técnico em Informática** - [FHA]  
 - **Técnico em Automação Industrial** - [IFMG]  
-
-## 🌟 Objetivos Profissionais
-
-<div style="background: #f5f8ff; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <p>Atualmente buscando oportunidades como desenvolvedor remoto, com foco em:</p>
-  <ul>
-    <li>Desenvolvimento Full-Stack</li>
-    <li>Automação</li>
-    <li>Desenvolvimento de Jogos (Godot Engine)</li>
-  </ul>
-  <p>Interessado em projetos desafiadores que combinem minha formação técnica com minha paixão por programação.</p>
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itevee-br&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itevee-br&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itevee-br&theme=algolia" alt="seu-usuario" />
-</div>
