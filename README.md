@@ -4,19 +4,11 @@
   <h3>Ítalo Gabriel</h3>
   
   <div>
-    <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://itevee.itch.io/" target="_blank">
-      <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/>
-    </a>
-    <a href="http://lattes.cnpq.br/9034901942612613" target="_blank">
-      <img src="https://img.shields.io/badge/Lattes-2F74A4?style=for-the-badge&logo=university&logoColor=white" alt="Currículo Lattes"/>
-    </a>
+    
   </div>
 </div>
 
-## 🛠 Linguagens
+## Linguagens
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -27,8 +19,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-## 📚 Formação Acadêmica
+## Formação Acadêmica
 
 - **Ciência da Computação** (Cursando) - [IFMG]  
 - **Técnico em Informática** - [FHA]  
 - **Técnico em Automação Industrial** - [IFMG]  
+
+## Links
+
+<a href="https://itevee.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/>
+</a>
+<a href="http://lattes.cnpq.br/9034901942612613" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-2F74A4?style=for-the-badge&logo=university&logoColor=white" alt="Currículo Lattes"/>
+</a>
